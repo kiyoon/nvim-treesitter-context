@@ -1,4 +1,6 @@
-# nvim-treesitter-context
+# nvim-treesitter-context fork
+
+Forked this plugin from commit e5676455c7e68069c6299facd4b5c4eb80cc4e9d because I wanted a single-line context.
 
 Lightweight alternative to [context.vim](https://github.com/wellle/context.vim)
 implemented with [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter).
